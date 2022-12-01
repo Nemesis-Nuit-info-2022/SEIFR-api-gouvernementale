@@ -1,0 +1,19 @@
+{
+  "name": "seifr-api-gouvernementale",
+  "version": "1.0.0",
+  "description": "*Theme : API, données*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemesis-Nuit-info-2022/SEIFR-api-gouvernementale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemesis-Nuit-info-2022/SEIFR-api-gouvernementale/issues"
+  },
+  "homepage": "https://github.com/Nemesis-Nuit-info-2022/SEIFR-api-gouvernementale#readme"
+}
