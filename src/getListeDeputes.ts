@@ -116,6 +116,7 @@ async function fetchPictureFromWikipedia(depute: Deputes) {
 		!!pictureUrl &&
 			![
 				"//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Defaut_2.svg/langfr-220px-Defaut_2.svg.png",
+				"//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Defaut.svg/langfr-200px-Defaut.svg.png",
 				"//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Defaut.svg/langfr-220px-Defaut.svg.png",
 				"//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/12px-Info_Simple.svg.png",
 			].includes(pictureUrl) &&
